@@ -1,0 +1,14 @@
+D:\C#\The biggest number\The biggest number\bin\Debug\netcoreapp3.1\The biggest number.exe
+D:\C#\The biggest number\The biggest number\bin\Debug\netcoreapp3.1\The biggest number.deps.json
+D:\C#\The biggest number\The biggest number\bin\Debug\netcoreapp3.1\The biggest number.runtimeconfig.json
+D:\C#\The biggest number\The biggest number\bin\Debug\netcoreapp3.1\The biggest number.runtimeconfig.dev.json
+D:\C#\The biggest number\The biggest number\bin\Debug\netcoreapp3.1\The biggest number.dll
+D:\C#\The biggest number\The biggest number\bin\Debug\netcoreapp3.1\The biggest number.pdb
+D:\C#\The biggest number\The biggest number\obj\Debug\netcoreapp3.1\The biggest number.AssemblyInfoInputs.cache
+D:\C#\The biggest number\The biggest number\obj\Debug\netcoreapp3.1\The biggest number.AssemblyInfo.cs
+D:\C#\The biggest number\The biggest number\obj\Debug\netcoreapp3.1\The biggest number.csproj.CoreCompileInputs.cache
+D:\C#\The biggest number\The biggest number\obj\Debug\netcoreapp3.1\The biggest number.dll
+D:\C#\The biggest number\The biggest number\obj\Debug\netcoreapp3.1\The biggest number.pdb
+D:\C#\The biggest number\The biggest number\obj\Debug\netcoreapp3.1\The biggest number.genruntimeconfig.cache
+D:\C#\The biggest number\The biggest number\obj\Debug\netcoreapp3.1\The biggest number.csproj.AssemblyReference.cache
+D:\C#\The biggest number\The biggest number\obj\Debug\netcoreapp3.1\The biggest number.GeneratedMSBuildEditorConfig.editorconfig
